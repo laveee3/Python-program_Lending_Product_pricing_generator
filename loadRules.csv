@@ -1,0 +1,7 @@
+﻿State,Creditscore,Product,Rate ,Disqualified
+Florida,,,,TRUE
+,>=720,,-0.3,
+,,ARM,0.5,FALSE
+,<720,,0.5,FALSE
+,,car,0.8,
+,,house,-0.5,

@@ -1,0 +1,5 @@
+721 Florida ARM 5.0 False
+740 Texas car 5.0 False
+700 California house 6.0 False
+730 Texas ARM 5.0 False
+700 California car 6.0 False
