@@ -62,8 +62,10 @@ class RulesEngine(Person, Product):
 
     # Function to output the interest_rate and disqualification status based on the rules and the input parameters
     def printoutput(self):
+        print('__', str(self.name), str(self.state), self.credit_score, '__')
         print("product.interest_rate == " + str(self.interest_rate))
         print("product.disqualified == " + str(self.disqualified))
+        return ('')
 # =============================================================================
 
 rules = []
