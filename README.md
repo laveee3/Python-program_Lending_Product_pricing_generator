@@ -1,4 +1,4 @@
-# Visio_Lending_Product_pricing
+# Lending_Product_pricing
 Product pricing generator
 
 This project has the following files:
