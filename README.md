@@ -1,4 +1,4 @@
-# Lending_Product_pricing
+# Lending_Product_pricing_generator: Python program
 Product pricing generator
 
 This project has the following files:
